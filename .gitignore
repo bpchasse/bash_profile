@@ -1,0 +1,16 @@
+.Trash/
+.bash_history
+.gitignore
+.ssh/
+.gitconfig
+.CFUserTextEncoding
+.DS_Store
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+solarized/
